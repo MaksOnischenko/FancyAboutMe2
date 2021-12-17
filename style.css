@@ -1,0 +1,42 @@
+
+body {
+	background-color: #90EE90;
+	font-family: serif;
+
+}
+
+table.small {
+	background-color: #00FA9A;
+}
+
+h1 {
+	color: #228B22;
+	text-align: center
+}
+
+h2 {
+	color: #228B22;
+	text-align: center
+}
+
+p {
+	color: #006400;
+	text-align: center;
+}
+
+p.sub {
+	font-style: italic;
+}
+
+hr{
+	align: center;
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #556B2F;
+	border-width: 10px;
+	width: 5%;
+}
+
+img {
+	border: 7px solid #98FB98;
+}
